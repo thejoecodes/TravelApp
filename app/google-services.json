@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6537550481",
+    "firebase_url": "https://travelapp-f75b7.firebaseio.com",
+    "project_id": "travelapp-f75b7",
+    "storage_bucket": "travelapp-f75b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6537550481:android:88442ead97e400e9",
+        "android_client_info": {
+          "package_name": "com.bluestel.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6537550481-htcu58j5vg356c6kbm0929e63dvlcm8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluestel.travelapp",
+            "certificate_hash": "7c76e84a0437b0fc3100ec738d6fe59085c8ead9"
+          }
+        },
+        {
+          "client_id": "6537550481-iue4rrtih947b3e5j0391fkrag3uag5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBml5Of3H6G-BpC6aKY7gy4H5-qkws-iB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6537550481-iue4rrtih947b3e5j0391fkrag3uag5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
